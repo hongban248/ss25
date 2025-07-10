@@ -11,7 +11,7 @@ def log_likelihood(data, mu, sigma):
     return np.exp(log_likelihood_value)
 
 
-datas=pd.read_csv('/home/yin/github_item/ss25/Materials/data/Per1_total.csv')
+datas=pd.read_csv('Materials/data/Per1_total.csv')
 #print(datas)
 data=datas['vr']
 print(data)
