@@ -1,0 +1,10 @@
+# linux system files
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# Jupyter Notebook/IPython checkpoint directories
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+**/.ipynb_checkpoints/

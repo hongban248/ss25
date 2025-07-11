@@ -10,9 +10,9 @@
 **Teaching assistant: Zi-Chong Zhang (NJU)**
 
 
-**This is the repository for all the course materials**
+**This is the repository for my the course materials**
 
-所有点的代码在Materials/data里可以看到啊啊啊
+所有写的代码在Materials/data里可以看到啊啊啊
 
 
 [Slides for Day 0](https://docs.google.com/presentation/d/1_8-193h1xiCqrHkJoAMgC8bJPYjWfodLQFUBUVRSl6s/edit?usp=sharing) 
