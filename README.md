@@ -12,6 +12,9 @@
 
 **This is the repository for all the course materials**
 
+所有点的代码在Materials/data里可以看到啊啊啊
+
+
 [Slides for Day 0](https://docs.google.com/presentation/d/1_8-193h1xiCqrHkJoAMgC8bJPYjWfodLQFUBUVRSl6s/edit?usp=sharing) 
 
 [Lecture Slides](https://box.nju.edu.cn/d/828bdc022c5543f782b0/)
